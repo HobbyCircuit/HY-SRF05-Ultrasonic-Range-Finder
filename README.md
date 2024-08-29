@@ -1,4 +1,4 @@
-## Arduino Nano - HY-SRF05 Ultrasonic Range Finder
+## ESP32 - HY-SRF05 Ultrasonic Range Finder
 
 ### Components
 - HY-SRF05 Ultrasonic Range Finder ([buy here](https://hobby-circuit.com/products/hy-srf05-ultrasonic-range-finder?keyword=HY-))
