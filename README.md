@@ -1,5 +1,7 @@
 ## ESP32 - HY-SRF05 Ultrasonic Range Finder
 
+![HY-SRF05 Ultrasonic Range Finder Schematic](https://cdn.shopify.com/s/files/1/0846/7654/2732/files/IMG_0542_480x480.heic?v=1724930908)
+
 In this project, we will build a simple range finder using the HY-SRF05 ultrasonic sensor. This sensor can be used to measure the distance between the module and an object placed in front of it.
 
 The HY-SRF05 operates using ultrasonic sound waves. These waves are emitted by the sensor, and when they hit an object, they are reflected back to the sensor. By measuring the time it takes for the sound waves to be transmitted and then received, we can calculate the distance the sound waves traveled, and therefore, the distance to the object.
